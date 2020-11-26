@@ -1,0 +1,12 @@
+EXTM3U
+ 
+#EXTINF:-1 ,MTV
+http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?checkedby:hlscat.com
+#EXTINF:-1 ,MTV Live
+http://beastiptv.tv:25461/live/Reyr07/Glendat11/1417.ts?checkedby:hlscat.com
+#EXTINF:-1 , Univision TDN
+http://rv.therevenge.co:80/0555141902/3893970296/81188?checkedby:hlscat.com
+#EXTINF:-1 , Univision
+http://rv.therevenge.co:80/691616211141151/691616211141151/81187?checkedby:hlscat.com
+#EXTINF:-1 ,Telemundo Usa
+http://62.210.101.222:9000/arthur21/arthur123/53893?checkedby:hlscat.com
